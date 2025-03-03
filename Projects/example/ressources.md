@@ -1,15 +1,12 @@
-# Resources & References - tt
+# Resources & References - example
 
 ## 🔗 Useful Links
 - [ ] Official documentation:
 - [ ] Tutorials:
 - [ ] Research papers:
 
-## 📖 Books & Articles
+## 📖 Related Articles
 - [ ] 
 
 ## 🛠️ Tools & Technologies
 - [ ] 
-
-## 📝 Notes & Learnings
-- 

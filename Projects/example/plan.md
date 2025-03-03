@@ -1,4 +1,4 @@
-# Project Plan - tt
+# Project Plan - example
 
 ## 🎯 Objectives
 - What is the goal of this project?
@@ -16,7 +16,7 @@
 - [ ] Define project scope
 - [ ] Create initial prototype
 - [ ] Gather feedback
-- [] Finalize and deploy
+- [ ] Finalize and deploy
 
 ## 📝 Notes
 - 

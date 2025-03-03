@@ -1,4 +1,4 @@
-# tt - Project Notes
+# example - Project Notes
 
 ## Description
 Lorem ipsum
@@ -6,9 +6,5 @@ Lorem ipsum
 ## Overview
 - **Status**: In Progress / Completed / On Hold
 
-## Tasks
-- [ ] Task 1
-- [ ] Task 2
-
-## Notes
+## Additional Notes
 - 

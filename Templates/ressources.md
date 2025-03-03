@@ -5,11 +5,8 @@
 - [ ] Tutorials:
 - [ ] Research papers:
 
-## 📖 Books & Articles
+## 📖 Related Articles
 - [ ] 
 
 ## 🛠️ Tools & Technologies
 - [ ] 
-
-## 📝 Notes & Learnings
-- 
