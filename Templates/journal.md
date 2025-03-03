@@ -1,0 +1,17 @@
+# {{date}} - Daily Journal
+
+## Morning
+- [ ] Plan for the day:
+- [ ] Priorities:
+
+## Work/Projects
+- Progress:
+- Challenges:
+
+## Training
+- Summary:
+
+## Reflection
+- What went well:
+- What needs improvement:
+- Key insights:
